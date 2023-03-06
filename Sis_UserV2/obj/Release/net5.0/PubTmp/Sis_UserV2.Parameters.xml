@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="API_Fiscalizacao_Fundiaria" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\HOSPEDAGEM\\WEB_REGULARIZACAO_FUNDI\\API\\Sis_UserV2\\Sis_UserV2\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
